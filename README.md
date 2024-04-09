@@ -1,4 +1,4 @@
-![image](https://github.com/TQ-Hung/Smart-Door-with-ESP32CAM-FaceDetection-and-IFTTT-for-DeviceControl/assets/133394852/0a12b712-6ff9-41d7-9ae3-5687c5e77a9e)![image](https://github.com/TQ-Hung/Smart-Door-with-ESP32CAM-FaceDetection-and-IFTTT-for-DeviceControl/assets/133394852/3e8f9af3-0d44-46f5-bfea-6c59697ea9c7)# Smart-Door-with-ESP32CAM-FaceDetection-and-IFTTT-for-ControlDevice
+# Smart-Door-with-ESP32CAM-FaceDetection-and-IFTTT-for-ControlDevice
 In this project, we are focusing on developing ESP32_Camera for the purpose of door opening through facial recognition and device control capabilities via Google Assistant (IFTTT) voice commands.
 # Description: 
 We are using two separate ESP32s for two purposes, ESP32_CAM for facial recognition and door opening, and a regular ESP32 for device control
