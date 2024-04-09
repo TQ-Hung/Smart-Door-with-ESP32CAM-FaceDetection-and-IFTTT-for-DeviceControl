@@ -16,11 +16,14 @@ We are using two separate ESP32s for two purposes, ESP32_CAM for facial recognit
 </p>
 
 # How to use:
+# 1.File ESP32-CAM_face-api_FaceRecognition_Telegram
 You need to change some lines of code with your GitHub link, where you store the face recognition models and samples for comparison.
 - Line 671 <span style="color:blue;">"<script src='https:\/\/raw.githubusercontent.com/VoHoangDinhKha/DinhKha.github.io/main/Face-api/face-api.min.js'></script>"</span>
 - Line 813 "const faceImagesPath = 'https://raw.githubusercontent.com/VoHoangDinhKha/DinhKha.github.io/main/Face-api/facelist/';"//The directory path of sample images is organized by the person's name.
 - Line 814 - 815 "const faceLabels = ['Kha', 'Hung'];" //The list of directories is organized by the names of individuals.
  <br> "faceImagesCount = 2 ;" //The number of images in each directory named after individuals, and the JPG files are named in serial order like 1.jpg, 2.jpg...
 - Line 817 "const modelPath = 'https://fustyles.github.io/webduino/TensorFlow/Face-api/;" //The path to the model file.
+# 2.File ESP32.Device_IFTTT_GoogleAsisstant
+- You can refer to the video for reference: https://www.youtube.com/watch?v=4jV98Hrh0Fo&t=486s by TFK iot
 
-*** The code was modified from a part of , license included.
+*** The code was modified from a part of Fuchungyi with youtube link: https://www.youtube.com/watch?app=desktop&v=cusDGCEJxLI, license included.
