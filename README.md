@@ -14,6 +14,7 @@ We are using two separate ESP32s for two purposes, ESP32_CAM for facial recognit
     <img src="https://img.youtube.com/vi/y_2RpiJP538/0.jpg" alt="Demo video" width="50%">
   </a>
 </p>
+
 # How to use:
 You need to change some lines of code with your GitHub link, where you store the face recognition models and samples for comparison.
 - Line 671 <span style="color:blue;">"<script src='https:\/\/raw.githubusercontent.com/VoHoangDinhKha/DinhKha.github.io/main/Face-api/face-api.min.js'></script>"</span>
