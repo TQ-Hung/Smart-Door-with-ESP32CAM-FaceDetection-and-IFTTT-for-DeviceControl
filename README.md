@@ -9,6 +9,8 @@ We are using two separate ESP32s for two purposes, ESP32_CAM for facial recognit
 - Without internet or Wi-Fi, remote device control is not possible, and device status updates may not be accurate.
 - Modules are not yet properly linked together, meaning that successful activation of the facial recognition block to unlock does not necessarily trigger the voice-controlled block to operate.
 # Demo:
-<div style="text-align:center;">
-  [![Demo video](https://img.youtube.com/vi/y_2RpiJP538/0.jpg)](https://www.youtube.com/watch?v=y_2RpiJP538)
-</div>
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=y_2RpiJP538">
+    <img src="https://img.youtube.com/vi/y_2RpiJP538/0.jpg" alt="Demo video" width="50%">
+  </a>
+</p>
