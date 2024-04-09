@@ -2,8 +2,8 @@
 In this project, we are focusing on developing ESP32_Camera for the purpose of door opening through facial recognition and device control capabilities via Google Assistant (IFTTT) voice commands.
 # Description: 
 We are using two separate ESP32s for two purposes, ESP32_CAM for facial recognition and door opening, and a regular ESP32 for device control
-1.The primary objective of ESP32_CAM is facial recognition and door opening, along with other tasks such as interacting with the chatbox tool on Telegram to execute functions like remote door opening and capturing images from the camera to enhance security and safety.
-2.The system allows users to use voice commands to execute requests through their phones with support from Google Assistant and IFTTT (Blynk database), thereby creating convenience in daily life. It enables remote device control without the need for extensive physical movement, and offers relatively fast response times
+- 1.The primary objective of ESP32_CAM is facial recognition and door opening, along with other tasks such as interacting with the chatbox tool on Telegram to execute functions like remote door opening and capturing images from the camera to enhance security and safety.
+- 2.The system allows users to use voice commands to execute requests through their phones with support from Google Assistant and IFTTT (Blynk database), thereby creating convenience in daily life. It enables remote device control without the need for extensive physical movement, and offers relatively fast response times
 # Limitations: 
 - When power is lost, the security system will not function.
 - Without internet or Wi-Fi, remote device control is not possible, and device status updates may not be accurate.
