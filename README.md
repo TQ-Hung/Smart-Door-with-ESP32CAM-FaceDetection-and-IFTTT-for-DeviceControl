@@ -17,6 +17,7 @@ We are using two separate ESP32s for two purposes, ESP32_CAM for facial recognit
 
 # How to use:
 # 1.File ESP32-CAM_face-api_FaceRecognition_Telegram
+My GitHub hosts the sample files for comparison in facial recognition: https://github.com/VoHoangDinhKha/DinhKha.github.io/tree/main 
 You need to change some lines of code with your GitHub link, where you store the face recognition models and samples for comparison.
 - Line 671 <span style="color:blue;">"<script src='https:\/\/raw.githubusercontent.com/VoHoangDinhKha/DinhKha.github.io/main/Face-api/face-api.min.js'></script>"</span>
 - Line 813 "const faceImagesPath = 'https://raw.githubusercontent.com/VoHoangDinhKha/DinhKha.github.io/main/Face-api/facelist/';"//The directory path of sample images is organized by the person's name.
